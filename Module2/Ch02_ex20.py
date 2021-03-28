@@ -7,7 +7,7 @@
 num = input("Enter an integer number: ")
 
 # Look executes until input is other than integer
-while num.isdigit() == false:
+while num.isdigit() == False:
     # display the error message and get another input
     num = input("Error: trye again, Enter an integer number: ")
 else:
