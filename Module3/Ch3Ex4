@@ -1,0 +1,27 @@
+Space to Fit
+We mentioned first fit and best fit as applied to finding parking spaces at a mall.
+
+Write a first fit algorithm for parking a car.
+Write a best fit algorithm for parking a car.
+
+
+First Fit
+Enter into the parking lot
+Find an open parking space.
+Drive into the parking space.
+Exit your car.
+Enter the mall.
+
+Best Fit
+Find an open parking space that is big so that one's car may fit.
+Make sure this parking spot is close to the entrance of the mall, if not return to previous step
+Drive into the parking space slowly making sure to to collide with any other car or line
+center car in parking space
+check to see if you have room on both sides of the car, if not return to step 1
+If their is room to open the door than open door
+Exit your car and walk around the car to check that all above steps were completed correctly
+If you did not do will, get back in the car and return to step 1
+When all the above tasks are done correctly you may leave the car and enter the mall.
+
+Conclusion
+The first fit is much simpler and will allow the usre to get into the mall faster. The reason for this is that there are less steps as compared to the Best Fit model. I would personally go witht the first fit model in almost all situations. However, if you have the time and would like to make sure you are parked in the best possible spot the best possible way than the best fit model will work.
